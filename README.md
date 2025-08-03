@@ -61,9 +61,9 @@ This repository contains my work and learnings from the **Industrial Training Pr
 
 A certificate of industrial training was awarded.
 
-![Industrial Training Certificate](.jpg)
 
-[🔗 View Full Certificate](./certificate.jpg)
+
+[🔗 View Full Certificate](file:///C:/Users/Kirat/Downloads/certificate.pdf)
 
 ---
 
