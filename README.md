@@ -46,10 +46,9 @@ This repository contains my work and learnings from the **Industrial Training Pr
 
 ## 📊 Projects
 
-| Project Title                  | Tools Used        | Description                                                                |
+| Project Title                 | Tools Used        | Description                                                                |
 |-------------------------------|-------------------|-----------------------------------------------------------------------------|
-| Heart Disease Detection       | Power BI          | Interactive dashboard showing sales by region, product, and time.
-Dashboard                                                                                                                         |
+| Heart Disease Dashboard       | Power BI          | Interactive dashboard showing sales by region, product, and time.           |
 | HR Database Analysis          | SQL + Power BI    | Analyzing employee data using SQL and visualizing insights in Power BI.     |
 | Customer Purchase Analysis    | SQL               | Used SQL queries to identify patterns and segment customers.                |
 
@@ -71,11 +70,11 @@ A certificate of industrial training for Data Analytics in PowerBi and SQL
 ## 🙋‍♂️ Author
 
 **Kirat Anand**  
-B.Tech CSE, 2nd Year , 
+B.Tech CSE, Pre-Final Year , 
 Guru Nanak Dev Engineering College, Ludhiana  
 Email: Kiratanand68@gmail.com / kiratanand36@gmail.com  
 LinkedIn: https://www.linkedin.com/in/kirat-anand-6aa88a281
-github:kirat-anand-68
+
 
 ---
 
