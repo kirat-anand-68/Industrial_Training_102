@@ -46,9 +46,10 @@ This repository contains my work and learnings from the **Industrial Training Pr
 
 ## 📊 Projects
 
-| Project Title                  | Tools Used        | Description                                                                 |
+| Project Title                  | Tools Used        | Description                                                                |
 |-------------------------------|-------------------|-----------------------------------------------------------------------------|
-| Sales Dashboard               | Power BI          | Interactive dashboard showing sales by region, product, and time.           |
+| Heart Disease Detection       | Power BI          | Interactive dashboard showing sales by region, product, and time.
+Dashboard                                                                                                                         |
 | HR Database Analysis          | SQL + Power BI    | Analyzing employee data using SQL and visualizing insights in Power BI.     |
 | Customer Purchase Analysis    | SQL               | Used SQL queries to identify patterns and segment customers.                |
 
