@@ -63,7 +63,7 @@ A certificate of industrial training was awarded.
 
 
 
-[🔗 View Full Certificate](file:///C:/Users/Kirat/Downloads/certificate.pdf)
+[🔗 View Full Certificate](/certificate.pdf)
 
 ---
 
