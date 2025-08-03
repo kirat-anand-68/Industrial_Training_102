@@ -54,12 +54,12 @@ This repository contains my work and learnings from the **Industrial Training Pr
 
 ---
 
-## 🧾 Certification
+
 
 
 ## 📜 Certificate
 
-A certificate of industrial training was awarded.
+A certificate of industrial training for Data Analytics in PowerBi and SQL
 
 
 
