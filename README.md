@@ -56,7 +56,14 @@ This repository contains my work and learnings from the **Industrial Training Pr
 
 ## 🧾 Certification
 
-Upon successful completion of this training, a certificate of industrial training will be awarded by the college/organization.
+
+## 📜 Certificate
+
+A certificate of industrial training was awarded.
+
+![Industrial Training Certificate](.jpg)
+
+[🔗 View Full Certificate](./certificate.jpg)
 
 ---
 
