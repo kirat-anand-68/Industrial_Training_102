@@ -1,0 +1,212 @@
+Power BI Training – Introduction
+🔹 1. What is Power BI?
+
+Power BI is a Business Intelligence (BI) and data visualization tool developed by Microsoft.
+
+It enables users to:
+
+Connect to multiple data sources (databases, Excel, APIs, cloud services).
+
+Transform and clean data to prepare it for analysis.
+
+Create data models with relationships and calculations.
+
+Build interactive dashboards and reports with charts, KPIs, and slicers.
+
+Share insights with others via the cloud (Power BI Service).
+
+👉 In short: Power BI turns raw data into interactive insights to support decision-making.
+
+🔹 2. Power BI Ecosystem (Components)
+
+Power BI consists of several tools and services:
+
+🖥️ Power BI Desktop
+
+Free Windows application.
+
+Used by data analysts to design reports.
+
+Includes:
+
+Power Query Editor → for data cleaning.
+
+Data Modeling → creating relationships and calculated measures.
+
+Report View → building charts and dashboards.
+
+🌐 Power BI Service (Cloud)
+
+Online SaaS platform (app.powerbi.com).
+
+Used to publish, share, and collaborate on reports.
+
+Features:
+
+Dashboards (single-page views).
+
+Scheduled data refresh.
+
+Collaboration with colleagues.
+
+📱 Power BI Mobile
+
+Apps for Android & iOS.
+
+Used to access dashboards on-the-go.
+
+🔗 Power BI Gateway
+
+Connects on-premises data sources (like SQL Server inside an office) with the Power BI cloud.
+
+Ensures data refresh works securely.
+
+📦 Power BI Report Server
+
+On-premise report server (for companies that don’t use the cloud).
+
+Useful for highly secure environments.
+
+3. Power BI Workflow
+
+The typical workflow in Power BI is:
+1. Connect → Data Sources (Excel, SQL, Web, APIs)
+2. Transform → Clean & Shape data using Power Query
+3. Model → Build relationships between tables (Fact & Dimension)
+4. Analyze → Use DAX to create calculated fields and measures
+5. Visualize → Create charts, KPIs, dashboards
+6. Publish → Share on Power BI Service
+7. Collaborate → Teamwork, scheduled refresh, sharing insights
+
+4. Power BI Features
+
+✅ Data Connectivity
+
+Connects with 100+ sources: Excel, SQL Server, Oracle, Azure, APIs, Salesforce, SharePoint, etc.
+
+✅ Data Transformation (ETL)
+
+Power Query Editor allows cleaning & shaping data:
+
+Remove nulls
+
+Merge tables
+
+Split columns
+
+Filter rows
+
+✅ Data Modeling
+
+Build relationships between tables.
+
+Example:
+
+Sales (fact) table linked with Products (dimension) table.
+
+✅ DAX (Data Analysis Expressions)
+
+Formula language used in Power BI.
+
+Example formulas:
+
+SUM(Sales[Revenue]) → Total Revenue
+
+CALCULATE(SUM(Sales[Revenue]), Region="Asia") → Revenue from Asia
+
+✅ Visualizations
+
+Bar, line, pie, treemap, map, gauge, KPI indicators, scatter, custom visuals.
+
+✅ Dashboards
+
+Combine multiple visuals into a single-page summary.
+
+Live and interactive.
+
+✅ AI Features
+
+Natural Language Q&A → Ask a question like “Show sales by region” and get a chart.
+
+                +-------------------+
+                |   Data Sources    |
+                | (Excel, SQL, API) |
+                +-------------------+
+                          |
+                          v
+                +-------------------+
+                | Power Query Editor|
+                | (ETL - Clean Data)|
+                +-------------------+
+                          |
+                          v
+                +-------------------+
+                |   Data Modeling   |
+                |  (Relationships,  |
+                |   Calculations)   |
+                +-------------------+
+                          |
+                          v
+                +-------------------+
+                |  Report Building  |
+                | (Charts, Dashboards)|
+                +-------------------+
+                          |
+                          v
+                +-------------------+
+                |  Power BI Service |
+                |  (Cloud Sharing)  |
+                +-------------------+
+                          |
+                          v
+                +-------------------+
+                | Mobile / Web Apps |
+                +-------------------+
+🔹 6. Benefits of Power BI
+
+Easy to learn, especially for Excel users.
+
+Handles large datasets efficiently.
+
+Supports both self-service BI and enterprise BI.
+
+Real-time analytics with live dashboards.
+
+Cross-platform access (desktop, cloud, mobile).
+
+Seamless integration with Microsoft products (Excel, Teams, Azure).
+
+🔹 7. Example Use Cases
+
+📈 Sales Dashboard
+
+Track revenue, profit, monthly growth.
+
+👥 Customer Analytics
+
+Segment customers by region or purchase pattern.
+
+💰 Finance Reporting
+
+Compare budget vs. actuals, monitor expenses.
+
+🏢 HR Analytics
+
+Employee performance, attrition rate, hiring trend.
+
+🔹 8. Conclusion
+
+Power BI is one of the most popular tools for data analysis and visualization.
+It enables businesses to make data-driven decisions by converting raw data into interactive insights.
+
+By learning Power BI, you gain skills in:
+
+Data Connectivity
+
+Data Modeling
+
+DAX Calculations
+
+Dashboard Creation
+
+Business Reporting
