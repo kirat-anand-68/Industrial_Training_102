@@ -46,12 +46,12 @@ This repository contains my work and learnings from the **Industrial Training Pr
 
 ## 📊 Projects
 
-| Project Title                 | Tools Used        | Description                                                                |
+| Project Title                 | Tools Used        | Description                                                                 |
 |-------------------------------|-------------------|-----------------------------------------------------------------------------|
-| Heart Disease Dashboard       | Power BI          | Interactive dashboard showing sales by region, product, and time.           |
-| HR Database Analysis          | SQL + Power BI    | Analyzing employee data using SQL and visualizing insights in Power BI.     |
-| Customer Purchase Analysis    | SQL               | Used SQL queries to identify patterns and segment customers.                |
-
+| Heart Disease Dashboard       | Power BI          | Interactive dashboard showing sales by Heart Disease Rate of Person         |
+| Blinkit Sales Dashboard       | Power BI          | Analyzing employee data using SQL and visualizing insights in Power BI.     |
+| Restaurant Sales  Analysis    | SQL               | Used SQL queries to identify patterns and segment of Restaurant Sales.                |
+| Adventure Works               | Power BI + SQL    | Adventure Workd are Tha Analysis of the Sales Of manufacturing Vehicles in differnet regions |
 ---
 
 
